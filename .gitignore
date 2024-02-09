@@ -1,0 +1,21 @@
+########################
+# ignore the system file
+.DS_Store
+**/.DS_Store
+
+########################
+# ignore the credential document
+Coding Test.docx
+
+########################
+# ignore the python env cache
+**/__pycache__/
+
+########################
+# ignore the proxy rule
+proxy.py
+
+#######################
+# ignore all the crawled mp3 files and json files
+*.mp3
+*.json

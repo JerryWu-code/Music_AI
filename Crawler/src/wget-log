@@ -1,0 +1,11 @@
+--2024-02-07 20:13:18--  https://www.looperman.com/media/loops/4507860/looperman-l-4507860-0328633-cubeatz-type-melody.mp3
+正在解析主机 www.looperman.com (www.looperman.com)... 169.197.83.131
+正在连接 www.looperman.com (www.looperman.com)|169.197.83.131|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：135297 (132K) [audio/mpeg]
+正在保存至: “../data/Looperman_Loops/Synth/looperman-l-4507860-0328633-cubeatz-type-melody.mp3”
+
+           looperman-l-4  11%[==>                             ]  15.45K  52.9KB/s                         looperman-l-45  29%[========>                       ]  38.89K  65.0KB/s                        looperman-l-450  64%[===================>            ]  85.77K  94.4KB/s               looperman-l-4507860-0328 100%[===============================>] 132.13K   145KB/s  用时 0.9s    
+
+2024-02-07 20:13:20 (145 KB/s) - 已保存 “../data/Looperman_Loops/Synth/looperman-l-4507860-0328633-cubeatz-type-melody.mp3” [135297/135297])
+
