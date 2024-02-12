@@ -39,8 +39,8 @@
 │       ├── wget-log.3
 │       └── wget-log.4
 └── Reproduction
-    └── MU-LLaMA_Pretrain
-        ├── c_train_loss.png
-        ├── log.txt
-        ├── lr.png
-        └── m_train_loss.png
+│   └── MU-LLaMA
+│       ├── Finetune_20_steps
+│       ├── Pretrain_150_steps
+│       └── inference
+└── folder_structure.txt
