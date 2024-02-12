@@ -8,8 +8,9 @@
 Coding Test.docx
 
 ########################
-# ignore the python env cache
+# ignore the python env cache and download log
 **/__pycache__/
+wget-*
 
 ########################
 # ignore the proxy rule
